@@ -1,2 +1,3 @@
 # C-Code
-123
+this is about c# language learning
+this is my first project in github
